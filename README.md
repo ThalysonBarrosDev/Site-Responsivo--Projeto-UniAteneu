@@ -1,4 +1,4 @@
-# Projeto--Ateneu
+# Projeto--UniAteneu
 
 Equipe de Desenvolvimento:
 
