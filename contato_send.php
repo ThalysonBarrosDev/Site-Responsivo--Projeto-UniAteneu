@@ -101,7 +101,7 @@ $mensagem = $_POST(['mensagem']);
         <div class="container">
             <div class="row">
                <div class="col-md-12">
-                  <p>Copyright © 2021 - Desenvolvido por <a href="https://html.design/">Alunos UniAteneu</a></p>
+                  <p>Copyright © 2021 - Desenvolvido por <a href="https://github.com/ThalysonBarrosDev/Site-Responsivo--Projeto-UniAteneu">Alunos UniAteneu</a></p>
                </div>
             </div>
         </div>
