@@ -7,7 +7,7 @@ $mensagem = addslashes($_POST['mensagem']);
 date_default_timezone_set('America/Sao_Paulo');
 $hora_contato = date("Y-m-d  #  H:i:s");
 
-$to = "thalysonbarrospereira2019@gmail.com";
+$to = array("thalysonbarrospereira2019@gmail.com", "allysonbarros4066@gmail.com", "viniciuswell200@gmail.com", "wendelSouza64@gmail.com");
 $subject = "Contato - BlogPix";
 $body = "Informações do contato ->". "\r\n". 
         "\r\n". 
@@ -24,10 +24,17 @@ $body = "Informações do contato ->". "\r\n".
 $header = "From: contatoblog@blogpix.com.br"."\r\n". 
           "X-Mailer:PHP/".phpversion();
 
-if(mail($to, $subject, $body, $header)) {
-   echo("");
-} else {
-   echo("Erro interno, tente novamente mais tarde.");
+for($i=0; $i < 4; $i++) {
+	mail($to[$i], $subject, $body, $header);
+	mail($to[$i], $subject, $body, $header);
+	mail($to[$i], $subject, $body, $header);
+	mail($to[$i], $subject, $body, $header);
+	
+	if ($i > 4) {
+		break;
+	} else {
+		
+	}
 }
 
 ?>
