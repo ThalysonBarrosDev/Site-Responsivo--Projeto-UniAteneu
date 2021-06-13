@@ -26,9 +26,6 @@ $header = "From: contatoblog@blogpix.com.br"."\r\n".
 
 for($i=0; $i < 4; $i++) {
 	mail($to[$i], $subject, $body, $header);
-	mail($to[$i], $subject, $body, $header);
-	mail($to[$i], $subject, $body, $header);
-	mail($to[$i], $subject, $body, $header);
 	
 	if ($i > 4) {
 		break;
