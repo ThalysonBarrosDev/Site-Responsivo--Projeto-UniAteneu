@@ -35,16 +35,16 @@
                         <nav class="main-menu">
                            <ul class="menu-area-main">
                               <li>
-                                 <a href="index.html">Inicio</a>
+                                 <a href="index.php">Inicio</a>
                               </li>
                               <li>
-                                 <a href="blog.html">Blog</a>
+                                 <a href="blog.php">Blog</a>
                               </li>
                               <li>
-                                 <a href="fraudes.html">SEGURANÇA</a>
+                                 <a href="fraudes.php">SEGURANÇA</a>
                               </li>
                               <li>
-                                 <a href="sobre.html">Sobre</a>
+                                 <a href="sobre.php">Sobre</a>
                               </li>
                               <li class="active">
                                  <a href="contato.php">Contato</a>
