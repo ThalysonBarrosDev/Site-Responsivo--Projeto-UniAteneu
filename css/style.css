@@ -242,7 +242,7 @@ button {
     width: 70%;
     content: "";
     max-height: 485px;
-    background: #184091;
+    background: #38c8a8;
     position: absolute;
     top: 28%;
     height: 100%;
@@ -486,11 +486,11 @@ nav.main-menu {
 
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
-	color: #ff0000;
+	color: #38c8a8;
 }
 
 .menu-area-main li.active a {
-	color: #ff0000;
+	color: #38c8a8;
 }
 
 .right_cart_section {
@@ -1779,12 +1779,12 @@ input[type="radio"] .styled:checked+label::after {
 
 .button_section a:hover,
 .button_section a:focus {
-	background: #ff0000 !important;
+	background: #38c8a8 !important;
     color: #fff;
 }
 
 .orange_color {
-	color: #ff0000;
+	color: #38c8a8;
 }
 
 .heading h3 {
@@ -1856,7 +1856,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .comment_form button {
-    background: #e91818;
+    background: #38c8a8;
     float: left;
     width: 290px;
     height: 70px;
@@ -2056,7 +2056,7 @@ ul.social_icon li a {
 
 .cpy p a:hover,
 .cpy p a:focus {
-	color: #e71717;
+	color: #38c8a8;
 }
 
 .About-bg {

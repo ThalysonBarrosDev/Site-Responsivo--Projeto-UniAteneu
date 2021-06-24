@@ -50,7 +50,7 @@ for($i=0; $i < 4; $i++) {
       <link rel="stylesheet" href="css/responsive.css">
       <link rel="icon" href="images/icone.png" type="image/gif"/>
       <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
-      <meta http-equiv="refresh" content="5; URL='http://localhost:8012/Projeto-Ateneu/'"/>
+      <meta http-equiv="refresh" content="5; URL='https://althdevops.com.br/blog_pix/'"/>
    </head>
 
    <body class="main-layout">

@@ -96,7 +96,7 @@
                      <br>
                      <h4>Sobre o Projeto</h4>
                      <p>Nós, alunos do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário UNIATENEU, buscando descomplicar o uso de tecnologias bancárias para pessoas com dificuldades. Resolvemos colocar online nosso blog, trazendo novidades, dicas de segurança, tudo e mais um pouco relacionado ao PIX. 
-Através daqui, vamos atualizar vocês sobre quaisquer atualização emitida pelo Banco Central, e principalmente buscar alertá-los sobre as fraudes mais aplicadas no mercado.</p>
+                     Através daqui, vamos atualizar vocês sobre quaisquer atualização emitida pelo Banco Central, e principalmente buscar alertá-los sobre as fraudes mais aplicadas no mercado.</p>
                      <br>
                      <h4>Equipe de Desenvolvimento</h4>
                      <p>A equipe responsável pelo desenvolvimento desse site, é composta por 5 pessoas. Juntos, conseguimos elaborar esse site com muita determinação, estudo e comunicação.</p><br>
@@ -105,10 +105,10 @@ Através daqui, vamos atualizar vocês sobre quaisquer atualização emitida pel
                      <br>
                      <br>
                      <div class="col-md-12" style="align-items: center;">
-                        <img class="nossas-fotos" src="images/thalyson.jpeg" title="Thalyson Barros Pereira"> &nbsp;&nbsp;&nbsp;
-                        <img class="nossas-fotos" src="images/wellin.jpeg" title="Wellington Vinicius Ribeiro da Silva">&nbsp;&nbsp;&nbsp;
-                        <img class="nossas-fotos" src="https://dummyimage.com/200x200/000/fff" title="Allyson Barros Pereira">&nbsp;&nbsp;&nbsp;
-                        <img class="nossas-fotos" src="https://dummyimage.com/200x200/000/fff" title="Wendel de Souza Silva">&nbsp;&nbsp;&nbsp;
+                        <img class="nossas-fotos" src="images/thalyson.png" title="Thalyson Barros Pereira" style="margin-bottom: 12px;"> &nbsp;&nbsp;&nbsp;
+                        <img class="nossas-fotos" src="images/wellin.png" title="Wellington Vinicius Ribeiro da Silva" style="margin-bottom: 12px;">&nbsp;&nbsp;&nbsp;
+                        <img class="nossas-fotos" src="images/allyson.png" title="Allyson Barros Pereira" style="margin-bottom: 12px;">&nbsp;&nbsp;&nbsp;
+                        <img class="nossas-fotos" src="images/wendell.png" title="Wendel de Souza Silva" style="margin-bottom: 12px;">&nbsp;&nbsp;&nbsp;
                         <img class="nossas-fotos" src="images/raphaele.png" title="Raphaele Moura">
                      </div>
                   </div>
