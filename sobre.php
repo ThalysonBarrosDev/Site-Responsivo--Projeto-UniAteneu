@@ -14,13 +14,10 @@
    </head>
 
    <body class="main-layout">
-
       <div class="loader_bg">
          <div class="loader"><img src="images/loading.gif" alt="" /></div>
       </div>
-
       <header>
-
          <div class="container-fluid">
             <div class="row">
                <div class="col-lg-3 logo_section">
@@ -57,7 +54,6 @@
                </div>
             </div>
          </div>
-
       </header>
 
       <div class="About-bg">
@@ -74,21 +70,11 @@
 
       <div class="section layout_padding">
          <div class="container">
-           
             <div class="row">
                <div class="col-md-12">
                   <div class="full blog_cont" style="text-align: center;">
                      <h4>Ficou curioso sobre o nosso site? confira as nossas informações aqui.</h4>
-                     <p>O nosso site faz parte da disciplina (Projeto Interdisciplinar) no curso de análise de desenvolvimento de sistemas na <a href= "https://uniateneu.edu.br/" target="_block">Faculdade UniAteneu</a>, ministrado pela professora <a href="" target="_block">Raphaele Moura</a>.</p>
-                     <br>
-                     <h4 style="text-align: center;">Vídeo Explicativo</h4>
-                     <p style="text-align: center;">Abaixo iremos mostrar um video explicativo sobre o nosso projeto. Confira:</p><br>
-                     <div align="center">
-                        <video width="700" height="400" controls>
-                           <source src="video/explicacao.mp4" type="video/mp4">
-                        </video>
-                     </div>
-                     <br>
+                     <p>O nosso site faz parte da disciplina (Projeto Interdisciplinar) no curso de análise de desenvolvimento de sistemas na <a href= "https://uniateneu.edu.br/" target="_block">Faculdade UniAteneu</a>, ministrado pela professora <a href="https://www.instagram.com/profaraphaelemoura/" target="_block">Raphaele Moura</a>.</p>
                      <br>
                      <br>
                      <h4>UniAteneu</h4>
@@ -114,7 +100,6 @@
                   </div>
                </div>
             </div>
-
          </div>
       </div>
 
@@ -122,7 +107,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12">
-                  <p>Copyright © 2021 - Desenvolvido por <a href="https://github.com/ThalysonBarrosDev/Site-Responsivo--Projeto-UniAteneu">Alunos UniAteneu</a></p>
+                  <p>Copyright © 2021 - Desenvolvido por <a href="https://github.com/ThalysonBarrosDev/Site-Responsivo--Projeto-UniAteneu" target="_block">Alunos UniAteneu</a></p>
                </div>
             </div>
          </div>

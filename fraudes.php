@@ -14,13 +14,10 @@
    </head>
 
    <body class="main-layout">
-
       <div class="loader_bg">
          <div class="loader"><img src="images/loading.gif" alt="" /></div>
       </div>
-
       <header>
-
          <div class="container-fluid">
             <div class="row">
                <div class="col-lg-3 logo_section">
@@ -57,7 +54,6 @@
                </div>
             </div>
          </div>
-
       </header>
 
       <div class="Marketing-bg">
@@ -109,7 +105,6 @@
 	  
       <div class="section layout_padding dark_bg">
          <div class="container">
-            
             <div class="row">
                <div class="col-md-6">
                   <img src="images/marketing_img3.png" alt="#" />
@@ -146,7 +141,6 @@
 
       <div class="section layout_padding dark_bg">
          <div class="container">
-            
             <div class="row">
                <div class="col-md-6">
                   <img src="images/marketing_img2.png" alt="Fonte: https://image.freepik.com/free-vector/isometric-phishing-concept-with-laptop-card-fishing-hook_272153-199.jpg" />
@@ -185,7 +179,7 @@
          <div class="container">
              <div class="row">
                 <div class="col-md-12">
-                   <p>Copyright © 2021 - Desenvolvido por <a href="https://github.com/ThalysonBarrosDev/Site-Responsivo--Projeto-UniAteneu">Alunos UniAteneu</a></p>
+                   <p>Copyright © 2021 - Desenvolvido por <a href="https://github.com/ThalysonBarrosDev/Site-Responsivo--Projeto-UniAteneu" target="_block">Alunos UniAteneu</a></p>
                 </div>
              </div>
          </div>

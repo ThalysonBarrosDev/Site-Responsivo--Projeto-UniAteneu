@@ -14,13 +14,10 @@
    </head>
 
    <body class="main-layout">
-
       <div class="loader_bg">
          <div class="loader"><img src="images/loading.gif" alt="" /></div>
       </div>
-
       <header>
-
          <div class="container-fluid">
             <div class="row">
                <div class="col-lg-3 logo_section">
@@ -57,7 +54,6 @@
                </div>
             </div>
          </div>
-
       </header>
 
       <div class="banner-slider">
@@ -177,7 +173,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12">
-                  <p>Copyright © 2021 - Desenvolvido por <a href="https://github.com/ThalysonBarrosDev/Site-Responsivo--Projeto-UniAteneu">Alunos UniAteneu</a></p>
+                  <p>Copyright © 2021 - Desenvolvido por <a href="https://github.com/ThalysonBarrosDev/Site-Responsivo--Projeto-UniAteneu" target="_block">Alunos UniAteneu</a></p>
                </div>
             </div>
          </div>
